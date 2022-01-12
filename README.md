@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lxyjrx
 - 👀 I’m interested in learning knowledge about MCU and RTOS.
-- 🌱 I’m currently learning some simple thing about linux and RTOS.
+- 🌱 I’m currently learning some simple thing about freeRTOS and RT-Thread.
 - 📫 My e-mail is 357341344@qq.com.
 
 <!---
